@@ -1,4 +1,4 @@
-package org.oca.javaBasics.classStructure;
+package org.oca.javaBasics_1.classStructure;
 
 interface MyInterface{
 

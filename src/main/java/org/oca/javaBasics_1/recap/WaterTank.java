@@ -1,4 +1,4 @@
-package org.oca.javaBasics.recap;
+package org.oca.javaBasics_1.recap;
 
 public class WaterTank {
     private String brand;

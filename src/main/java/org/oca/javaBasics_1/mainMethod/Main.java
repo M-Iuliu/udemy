@@ -1,4 +1,4 @@
-package org.oca.javaBasics.mainMethod;
+package org.oca.javaBasics_1.mainMethod;
 
 class A {
     public static void main(String[] args) {

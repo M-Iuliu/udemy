@@ -1,4 +1,4 @@
-package org.oca.javaBasics.classStructure.Enum;
+package org.oca.javaBasics_1.classStructure.Enum;
 
 enum Animal {
     DOG("whoof"), CAT ("MIAW"), FISH("BOUBLE");

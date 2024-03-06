@@ -1,4 +1,4 @@
-package org.oca.javaBasics.classModifires;
+package org.oca.javaBasics_1.classModifires;
 
 // top level classes can be public and default
 public class Modifiers {

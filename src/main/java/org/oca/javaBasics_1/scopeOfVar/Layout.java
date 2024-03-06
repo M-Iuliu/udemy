@@ -1,4 +1,4 @@
-package org.oca.javaBasics.scopeOfVar;
+package org.oca.javaBasics_1.scopeOfVar;
 
 
 public class Layout {

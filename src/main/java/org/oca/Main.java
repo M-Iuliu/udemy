@@ -1,6 +1,6 @@
 package org.oca;
 
-import org.oca.javaBasics.scopeOfVar.Layout;
+import org.oca.javaBasics_1.scopeOfVar.Layout;
 
 public class Main {
  boolean a;
